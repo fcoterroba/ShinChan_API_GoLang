@@ -1,0 +1,22 @@
+[
+    {
+        "personaje": "Shinnosuke Nohara",
+        "edad": 5,
+        "imagen": "https://static.wikia.nocookie.net/crayonshinchan/images/6/6d/SHIN.png/revision/latest?cb=20200609184539"
+    },
+    {
+        "personaje": "Misae Nohara",
+        "edad": 29,
+        "imagen": "https://static.wikia.nocookie.net/crayonshinchan/images/6/6d/SHIN.png/revision/latest?cb=20200609184539"
+    },
+    {
+        "personaje": "Himawari Nohara",
+        "edad": 1,
+        "imagen": "https://static.wikia.nocookie.net/crayonshinchan/images/6/6d/SHIN.png/revision/latest?cb=20200609184539"
+    },
+    {
+        "personaje": "Hiroshi Nohara",
+        "edad": 35,
+        "imagen": "https://static.wikia.nocookie.net/crayonshinchan/images/6/6d/SHIN.png/revision/latest?cb=20200609184539"
+    }
+]
